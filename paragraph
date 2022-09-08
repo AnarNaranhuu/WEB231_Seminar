@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<Html>
+    <header>
+        <H1>
+            Paaragraph
+        </H1>
+    </header>
+    <body>
+        <h2>First paragraph</h2>
+        <p>The tag defines a thematic break in an HTML page,<br> and is most often displayed as a horizontal rule.</p>
+    </body>
+</Html>
